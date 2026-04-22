@@ -1,0 +1,1435 @@
+{
+  "meta": {
+    "retrieved_at": "2026-04-11T08:24:26.102275+00:00",
+    "retrieval_type": "sequel_setup",
+    "book_title": "A Court of Frost and Starlight.epub"
+  },
+  "story_ending": {
+    "last_scene": {
+      "summary": "Cassian retrieves Nesta from her apartment to bring her to Feyre's meeting at the riverfront estate. Feyre, Rhys, and Amren confront Nesta about her destructive behavior and inform her she will be sent to the Illyrian Mountains with Cassian.",
+      "book_index": 1,
+      "chapter_index": 28,
+      "scene_index": 1,
+      "location": {
+        "name": "riverfront estate",
+        "description": "Feyre and Rhys's new home with marble archway, white-and-sand-colored front hall, sweeping staircase, and formal study"
+      },
+      "entities_present": [
+        {
+          "name": "Amren",
+          "entity_type": "character"
+        },
+        {
+          "name": "Cassian",
+          "entity_type": "character"
+        },
+        {
+          "name": "Elain",
+          "entity_type": "character"
+        },
+        {
+          "name": "Feyre",
+          "entity_type": "character"
+        },
+        {
+          "name": "Nesta",
+          "entity_type": "character"
+        },
+        {
+          "name": "Ressina",
+          "entity_type": "character"
+        },
+        {
+          "name": "Rhys",
+          "entity_type": "character"
+        }
+      ],
+      "relationship_changes": [
+        {
+          "source": "Feyre",
+          "target": "Nesta",
+          "relationship": "siblings",
+          "change": "confrontation about destructive behavior and intervention",
+          "evidence": "Feyre confronts Nesta about her behavior and orders her to leave Velaris"
+        }
+      ],
+      "state_changes": [
+        {
+          "entity": "Nesta",
+          "attribute": "location",
+          "new_state": "ordered to Illyrian Mountains",
+          "evidence": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian"
+        }
+      ]
+    },
+    "critical_path_tail": [
+      {
+        "id": "t_59",
+        "description": "Nesta angrily refuses to attend Solstice and demands rent payment",
+        "chapter": 13,
+        "score": 7,
+        "why_critical": "Nesta's refusal solidifies her isolation and creates family tension that will need resolution",
+        "order": 10,
+        "story_impact": 6
+      },
+      {
+        "id": "t_88",
+        "description": "Someone knocks at the front door during the gift exchange",
+        "chapter": 19,
+        "score": 8,
+        "why_critical": "Triggers Nesta's arrival and subsequent chain of events",
+        "order": 11,
+        "story_impact": 4
+      },
+      {
+        "id": "t_89",
+        "description": "Feyre opens the door to find Nesta standing outside",
+        "chapter": 19,
+        "score": 8,
+        "why_critical": "Nesta's arrival changes the dynamic of the celebration",
+        "order": 12,
+        "story_impact": 5
+      },
+      {
+        "id": "t_93",
+        "description": "Nesta leaves the celebration and walks out into the freezing darkness",
+        "chapter": 20,
+        "score": 7,
+        "why_critical": "Nesta leaving triggers Cassian's pursuit and their conflict",
+        "order": 13,
+        "story_impact": 5
+      },
+      {
+        "id": "t_97",
+        "description": "Nesta rejects Cassian's attempts to connect with her",
+        "chapter": 21,
+        "score": 7,
+        "why_critical": "Nesta's rejection of Cassian leads to significant emotional consequences",
+        "order": 14,
+        "story_impact": 5
+      },
+      {
+        "id": "t_101",
+        "description": "Feyre mentally reveals to Rhys her desire to have a child with him",
+        "chapter": 22,
+        "score": 9,
+        "why_critical": "Initiates the central plotline of Feyre and Rhys starting a family",
+        "order": 15,
+        "story_impact": 8
+      },
+      {
+        "id": "t_104",
+        "description": "Rhys stops taking his contraceptive tonic, indicating they will try to conceive",
+        "chapter": 22,
+        "score": 8,
+        "why_critical": "Concrete action that enables potential pregnancy and future story developments",
+        "order": 16,
+        "story_impact": 9
+      },
+      {
+        "id": "t_126",
+        "description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+        "chapter": 28,
+        "score": 8,
+        "why_critical": "Initiates the sequence that leads to Nesta's confrontation and exile",
+        "order": 17,
+        "story_impact": 5
+      },
+      {
+        "id": "t_129",
+        "description": "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+        "chapter": 28,
+        "score": 9,
+        "why_critical": "Direct confrontation that forces the major decision about Nesta's fate",
+        "order": 18,
+        "story_impact": 7
+      },
+      {
+        "id": "t_130",
+        "description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+        "chapter": 28,
+        "score": 10,
+        "why_critical": "Major decision that changes Nesta's location and sets up future story arcs",
+        "order": 19,
+        "story_impact": 8
+      }
+    ]
+  },
+  "character_states": [
+    {
+      "name": "Feyre",
+      "mention_count": 26,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "wearing heavy charcoal sweater, tight black leggings, fleece-lined boots, hair loosely braided",
+        "silver-and-sapphire band on left hand",
+        "heavy gray coat, red-and-gray scarf from Mor's closet, gloved hands",
+        "clad in sparkling onyx gown with crescent-moon diadem",
+        "hood concealing most of her face",
+        "back cramped, stomach hungry",
+        "trembling hands balled into tight fists",
+        "midnight-blue velvet gown, hair down with silver combs",
+        "headache from drinking, tongue stuck to roof of mouth",
+        "wearing Starfall gown and diamond cuffs",
+        "wearing diamond cuffs and glittering gown",
+        "pocketing key in overcoat, hair in braid",
+        "thick long sweater, warm leggings, shearling-lined work boots splattered with paint",
+        "clad in heavy cream sweater and dark leggings"
+      ],
+      "aliases": [
+        "High Lady of the Night Court",
+        "my sister",
+        "sister"
+      ],
+      "canon_state": {
+        "knowledge": "aware of Hewn City visit requirement",
+        "possession": "owns new sketchbook, scarf, and painting satchel",
+        "emotional_state": "experienced emotional release and closure",
+        "palm_tattoos": "mountain with three stars (Night Court insignia)"
+      },
+      "state_transitions": [
+        {
+          "attribute": "knowledge",
+          "previous_state": "",
+          "new_state": "aware of Hewn City visit requirement",
+          "change_type": "knowledge",
+          "evidence": "Mor informs Feyre they must visit the Hewn City tonight",
+          "chapter": 4
+        },
+        {
+          "attribute": "emotional_state",
+          "previous_state": "",
+          "new_state": "experienced emotional release and closure",
+          "change_type": "condition",
+          "evidence": "painting felt like a first stitch to close a wound",
+          "chapter": 10
+        },
+        {
+          "attribute": "possession",
+          "previous_state": "",
+          "new_state": "owns new sketchbook, scarf, and painting satchel",
+          "change_type": "possession",
+          "evidence": "Rhys gives her three birthday gifts",
+          "chapter": 17
+        },
+        {
+          "attribute": "palm tattoos",
+          "previous_state": "cat's eye symbol",
+          "new_state": "mountain with three stars (Night Court insignia)",
+          "change_type": "physical_state",
+          "evidence": "Rhys changed the tattoos on both her palms",
+          "chapter": 22
+        }
+      ]
+    },
+    {
+      "name": "Rhys",
+      "mention_count": 23,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "chilled hands",
+        "Illyrian leathers gleamed with melted snow, snow on dark hair and wings",
+        "exhausted with heavy, slow movements",
+        "wearing only undershorts",
+        "wings still numb from flight",
+        "black jacket crafted from heavier wool, forgone wings",
+        "naked, wings draped across bed, Illyrian tattoos visible",
+        "wearing finest black jacket with silver embroidery",
+        "wearing tight black jacket, has wings",
+        "clad in usual black, High Lord's clothes, more formal than usual"
+      ],
+      "aliases": [
+        "High Lord",
+        "mate",
+        "Rhysand"
+      ],
+      "canon_state": {
+        "knowledge": "aware of full extent of Illyrian dissent",
+        "physical_condition": "has eaten food after not eating properly all day",
+        "contraceptive_use": "stopped taking tonic"
+      },
+      "state_transitions": [
+        {
+          "attribute": "physical condition",
+          "previous_state": "",
+          "new_state": "has eaten food after not eating properly all day",
+          "change_type": "physical_state",
+          "evidence": "Feyre brings him food and he eats it",
+          "chapter": 5
+        },
+        {
+          "attribute": "knowledge",
+          "previous_state": "",
+          "new_state": "aware of full extent of Illyrian dissent",
+          "change_type": "knowledge",
+          "evidence": "Azriel presents maps showing more clans than expected",
+          "chapter": 7
+        },
+        {
+          "attribute": "contraceptive use",
+          "previous_state": "taking tonic",
+          "new_state": "stopped taking tonic",
+          "change_type": "status",
+          "evidence": "He hadn't taken his contraceptive tonic with breakfast",
+          "chapter": 22
+        }
+      ]
+    },
+    {
+      "name": "Cassian",
+      "mention_count": 21,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "dark hair, wings, crimson Siphons",
+        "wearing flying leathers and gloves",
+        "wind-tangled snarls in hair",
+        "snow on broad shoulders and dark hair, flushed cheeks from cold, wearing black jacket and shirt instead of leathers",
+        "wings draped over bed and floor",
+        "portrait of relaxed, arm braced against mantel, wings tucked in loosely, faint grin, glass of wine in hand",
+        "callused hands",
+        "face a mask of stone, distant since Solstice",
+        "wearing seven Siphons, red Siphon flickering"
+      ],
+      "aliases": [
+        "brute",
+        "Illyrian warrior",
+        "warrior"
+      ],
+      "canon_state": {
+        "location": "settled in town house bedroom"
+      },
+      "state_transitions": [
+        {
+          "attribute": "location",
+          "previous_state": "",
+          "new_state": "settled in town house bedroom",
+          "change_type": "location",
+          "evidence": "dumped his leather bag on the narrow bed",
+          "chapter": 16
+        }
+      ]
+    },
+    {
+      "name": "Azriel",
+      "mention_count": 19,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "shadows sliding over his neck like living tattoos",
+        "scarred fingers",
+        "fine yet simple black jacket and pants, wings tucked back",
+        "clad in black jacket and pants tailored for wings, wearing Siphons",
+        "shadows twining around him"
+      ],
+      "aliases": [
+        "Az",
+        "the shadowsinger"
+      ],
+      "canon_state": {
+        "location": "settled in town house bedroom"
+      },
+      "state_transitions": [
+        {
+          "attribute": "location",
+          "previous_state": "",
+          "new_state": "settled in town house bedroom",
+          "change_type": "location",
+          "evidence": "setting his own bag on the bed opposite Cassian's",
+          "chapter": 16
+        }
+      ]
+    },
+    {
+      "name": "Elain",
+      "mention_count": 16,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "hair half up, apron over rose-pink gown dusted with flour, skin gained color, face filled in",
+        "flour-coated hands, apron over dusty-pink gown, braid",
+        "doe-brown eyes, silent demeanor"
+      ],
+      "aliases": [
+        "my sister",
+        "sister"
+      ],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Mor",
+      "mention_count": 14,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "flushed cheeks, braided golden hair, white fur-lined cloak, brown coat",
+        "wearing red gown with gold jewelry",
+        "thick red scarf, brown overcoat",
+        "wearing peach-colored loose pants and heavy white sweater, gold earrings",
+        "wearing Illyrian leathers, heated from the ride"
+      ],
+      "aliases": [],
+      "canon_state": {
+        "assignment": "offered diplomatic mission to other territories",
+        "emotional_state": "traumatized by Eris memory"
+      },
+      "state_transitions": [
+        {
+          "attribute": "emotional_state",
+          "previous_state": "",
+          "new_state": "traumatized by Eris memory",
+          "change_type": "condition",
+          "evidence": "Mor experiences vivid flashback to her abandonment",
+          "chapter": 6
+        },
+        {
+          "attribute": "assignment",
+          "previous_state": "",
+          "new_state": "offered diplomatic mission to other territories",
+          "change_type": "status",
+          "evidence": "Rhys asks Mor to win over other lands through diplomatic visits",
+          "chapter": 14
+        }
+      ]
+    },
+    {
+      "name": "Nesta",
+      "mention_count": 12,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "lost weight, proud angular face with sharp cheekbones, hair in braided coronet, wearing gray gown, immaculately clean despite surroundings",
+        "baring teeth, fingers curling into invisible claws, nose crinkled with rage",
+        "snow clung to her hair, pink tinged cheeks from frigid night, solemn face",
+        "wearing simple yet elegant slate gray gown, no jewelry",
+        "books tucked under arm, cold and pale face, weight loss",
+        "gloved fingers",
+        "pale, thinner than before the war, lips bloodless, cold sharp eyes, wearing two-day-old clothes, unwashed hair, wine-stained shoes",
+        "dark blue overcoat, cerulean-and-cream scarf from Elain"
+      ],
+      "aliases": [
+        "Nesta Archeron"
+      ],
+      "canon_state": {
+        "possession": "receives rent money from Feyre",
+        "location": "ordered to Illyrian Mountains",
+        "emotional_state": "feeling nothing, hollow"
+      },
+      "state_transitions": [
+        {
+          "attribute": "location",
+          "previous_state": "",
+          "new_state": "present at Solstice celebration",
+          "change_type": "location",
+          "evidence": "Nesta crosses the threshold into the house",
+          "chapter": 20
+        },
+        {
+          "attribute": "possession",
+          "previous_state": "receives set of five novels from Elain",
+          "new_state": "receives rent money from Feyre",
+          "change_type": "possession",
+          "evidence": "Nesta took the banker's note for her rent money",
+          "chapter": 20
+        },
+        {
+          "attribute": "emotional_state",
+          "previous_state": "",
+          "new_state": "feeling nothing, hollow",
+          "change_type": "condition",
+          "evidence": "She hadn't felt anything in months... As hollow as she felt",
+          "chapter": 21
+        },
+        {
+          "attribute": "location",
+          "previous_state": "present at Solstice celebration",
+          "new_state": "ordered to Illyrian Mountains",
+          "change_type": "location",
+          "evidence": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "chapter": 28
+        }
+      ]
+    },
+    {
+      "name": "Amren",
+      "mention_count": 11,
+      "first_seen_chapter": 3,
+      "descriptions": [
+        "wearing enormous white fur coat, only hair and silver eyes visible above collar",
+        "seated at worktable doing jigsaw puzzle, red mouth, silver eyes, long red nails"
+      ],
+      "aliases": [
+        "lady",
+        "Second"
+      ],
+      "canon_state": {
+        "diet": "struggling with solid food adaptation"
+      },
+      "state_transitions": [
+        {
+          "attribute": "diet",
+          "previous_state": "",
+          "new_state": "struggling with solid food adaptation",
+          "change_type": "condition",
+          "evidence": "Amren complains about the inconvenience of eating and bodily functions in her High Fae form",
+          "chapter": 12
+        }
+      ]
+    },
+    {
+      "name": "Lucien",
+      "mention_count": 8,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "wearing sapphire jacket, mechanical eye whirring"
+      ],
+      "aliases": [],
+      "canon_state": {
+        "living_situation": "belongings sent from Spring Court, staying with Band of Exiles"
+      },
+      "state_transitions": [
+        {
+          "attribute": "living_situation",
+          "previous_state": "",
+          "new_state": "belongings sent from Spring Court, staying with Band of Exiles",
+          "change_type": "status",
+          "evidence": "Tamlin sent all Lucien's belongings from Spring Court, Lucien reveals he stays with Jurian and Vassa",
+          "chapter": 18
+        }
+      ]
+    },
+    {
+      "name": "Ressina",
+      "mention_count": 7,
+      "first_seen_chapter": 4,
+      "descriptions": [
+        "pale green skin with rose blush, sable hair, ochre eyes, brown coat, pink scarf, slender long ears",
+        "thick long sweater, warm leggings, shearling-lined work boots splattered with paint"
+      ],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Varian",
+      "mention_count": 7,
+      "first_seen_chapter": 4,
+      "descriptions": [
+        "clad in Summer Court blue and gold, silver hair"
+      ],
+      "aliases": [
+        "Prince of Adriata"
+      ],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Devlon",
+      "mention_count": 6,
+      "first_seen_chapter": 1,
+      "descriptions": [
+        "barrel chest, muscled arms, hazel eyes"
+      ],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Eris",
+      "mention_count": 5,
+      "first_seen_chapter": 4,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Nuala",
+      "mention_count": 5,
+      "first_seen_chapter": 1,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Tamlin",
+      "mention_count": 5,
+      "first_seen_chapter": 5,
+      "descriptions": [
+        "haggard, desperate for wash, shaggy hair, haunted bleak eyes, less muscled",
+        "unbound golden hair dull and matted, green eyes empty"
+      ],
+      "aliases": [
+        "High Lord of Spring"
+      ],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Cerridwen",
+      "mention_count": 4,
+      "first_seen_chapter": 1,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Keir",
+      "mention_count": 4,
+      "first_seen_chapter": 4,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Graysen",
+      "mention_count": 3,
+      "first_seen_chapter": 5,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Polina",
+      "mention_count": 3,
+      "first_seen_chapter": 9,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Beron",
+      "mention_count": 2,
+      "first_seen_chapter": 14,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Jurian",
+      "mention_count": 2,
+      "first_seen_chapter": 7,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Kallias",
+      "mention_count": 2,
+      "first_seen_chapter": 4,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Madja",
+      "mention_count": 2,
+      "first_seen_chapter": 5,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Neve",
+      "mention_count": 2,
+      "first_seen_chapter": 11,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Vassa",
+      "mention_count": 2,
+      "first_seen_chapter": 7,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Viviane",
+      "mention_count": 2,
+      "first_seen_chapter": 4,
+      "descriptions": [],
+      "aliases": [
+        "Lady of the Winter Court"
+      ],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "weaver",
+      "mention_count": 2,
+      "first_seen_chapter": 15,
+      "descriptions": [
+        "High Fae, full-figured, pale-skinned, black braided hair, gray quiet eyes, wearing thick red sweater and shearling-lined boots"
+      ],
+      "aliases": [
+        "Aranea",
+        "the weaver"
+      ],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Aranea",
+      "mention_count": 1,
+      "first_seen_chapter": 27,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Emerie",
+      "mention_count": 1,
+      "first_seen_chapter": 8,
+      "descriptions": [
+        "scars on wings from clipping",
+        "brown eyes, dark braided hair, tan skin, narrow angular face",
+        "wearing white apron over brown dress"
+      ],
+      "aliases": [],
+      "canon_state": {
+        "occupation": "shop owner"
+      },
+      "state_transitions": [
+        {
+          "attribute": "occupation",
+          "previous_state": "",
+          "new_state": "shop owner",
+          "change_type": "status",
+          "evidence": "Emerie states 'This is my shop now'",
+          "chapter": 8
+        }
+      ]
+    },
+    {
+      "name": "Helion",
+      "mention_count": 1,
+      "first_seen_chapter": 18,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Kallon",
+      "mention_count": 1,
+      "first_seen_chapter": 26,
+      "descriptions": [],
+      "aliases": [
+        "son of its lord",
+        "whelp"
+      ],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Proteus",
+      "mention_count": 1,
+      "first_seen_chapter": 8,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Suriel",
+      "mention_count": 1,
+      "first_seen_chapter": 25,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    },
+    {
+      "name": "Tarquin",
+      "mention_count": 1,
+      "first_seen_chapter": 23,
+      "descriptions": [],
+      "aliases": [],
+      "canon_state": {},
+      "state_transitions": []
+    }
+  ],
+  "relationship_summary": [
+    {
+      "entity_a": "Feyre",
+      "entity_b": "Nesta",
+      "relationship_type": "SIBLINGS",
+      "latest_change": "confrontation about destructive behavior and intervention",
+      "evidence": "Feyre confronts Nesta about her behavior and orders her to leave Velaris",
+      "last_seen_chapter": 28
+    },
+    {
+      "entity_a": "Feyre",
+      "entity_b": "Ressina",
+      "relationship_type": "PARTNERSHIP",
+      "latest_change": "business proposal made",
+      "evidence": "Feyre asks Ressina about being a business partner for the studio",
+      "last_seen_chapter": 25
+    },
+    {
+      "entity_a": "Feyre",
+      "entity_b": "Rhys",
+      "relationship_type": "MATES",
+      "latest_change": "decided to try for a child together",
+      "evidence": "Feyre revealed her desire to have a child, Rhys stopped contraceptive use",
+      "last_seen_chapter": 22
+    },
+    {
+      "entity_a": "Nesta",
+      "entity_b": "Cassian",
+      "relationship_type": "REJECTION",
+      "latest_change": "final rejection of his attempts to help",
+      "evidence": "Nesta rejects Cassian's gift and tells him to stop following her, treating him as if he were nothing",
+      "last_seen_chapter": 21
+    },
+    {
+      "entity_a": "Elain",
+      "entity_b": "Lucien",
+      "relationship_type": "REJECTION",
+      "latest_change": "explicit refusal of mate bond",
+      "evidence": "Elain states 'I don't want a mate. I don't want a male' and avoids interaction with Lucien",
+      "last_seen_chapter": 18
+    },
+    {
+      "entity_a": "Rhys",
+      "entity_b": "Mor",
+      "relationship_type": "TRUST",
+      "latest_change": "Rhys explicitly states trust in Mor's capabilities",
+      "evidence": "\"I trust you,\" she said at last. I bowed my head. \"Thank you.\"",
+      "last_seen_chapter": 14
+    },
+    {
+      "entity_a": "Amren",
+      "entity_b": "Cassian",
+      "relationship_type": "ANTAGONISM",
+      "latest_change": "increased tension regarding Nesta",
+      "evidence": "Amren taunts Cassian about Nesta coming for Solstice and enjoying seeing her 'shred into you'",
+      "last_seen_chapter": 12
+    },
+    {
+      "entity_a": "Amren",
+      "entity_b": "Elain",
+      "relationship_type": "CONFRONTATION",
+      "latest_change": "challenges Elain about accepting her Fae nature",
+      "evidence": "Amren questions if Elain's curiosity about form-changing is about 'your own future' rather than Amren's past",
+      "last_seen_chapter": 12
+    },
+    {
+      "entity_a": "Cassian",
+      "entity_b": "Emerie",
+      "relationship_type": "TRUST",
+      "latest_change": "Cassian entrusts Emerie with distribution task",
+      "evidence": "Cassian gives Emerie money and goods to distribute to needy families",
+      "last_seen_chapter": 8
+    }
+  ],
+  "unresolved_threads": [
+    {
+      "event_id": "t_104",
+      "event_description": "Rhys stops taking his contraceptive tonic, indicating they will try to conceive",
+      "chapter": 22,
+      "is_critical": true,
+      "decision_made": "Rhys stops contraceptive use",
+      "alternatives": [
+        "Continue contraception",
+        "Delay decision"
+      ],
+      "divergence_potential": 9,
+      "alternate_timeline": "No immediate attempt to conceive, different relationship dynamics"
+    },
+    {
+      "event_id": "t_130",
+      "event_description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+      "chapter": 28,
+      "is_critical": true,
+      "decision_made": "Feyre decides to send Nesta to Illyrian Mountains",
+      "alternatives": [
+        "Different punishment",
+        "Rehabilitation in Velaris",
+        "No intervention"
+      ],
+      "divergence_potential": 9,
+      "alternate_timeline": "Nesta's character development and story arc would have followed completely different paths"
+    },
+    {
+      "event_id": "t_88",
+      "event_description": "Someone knocks at the front door during the gift exchange",
+      "chapter": 19,
+      "is_critical": true,
+      "decision_made": "Someone knocks on the door",
+      "alternatives": [
+        "No one knocks",
+        "Different person knocks"
+      ],
+      "divergence_potential": 8,
+      "alternate_timeline": "Nesta never arrives, celebration continues without conflict"
+    },
+    {
+      "event_id": "t_6",
+      "event_description": "Rhys and Cassian negotiate with Devlon about female warrior training schedule",
+      "chapter": 2,
+      "is_critical": true,
+      "decision_made": "Rhys and Cassian negotiate training compromise with Devlon",
+      "alternatives": [
+        "Direct confrontation",
+        "Abandoning the issue"
+      ],
+      "divergence_potential": 7,
+      "alternate_timeline": "Illyrian rebellion could escalate faster without compromise"
+    },
+    {
+      "event_id": "t_33",
+      "event_description": "Rhys decides to visit the Spring Court alone after Solstice to assess Tamlin's border enforcement",
+      "chapter": 7,
+      "is_critical": null,
+      "decision_made": "Rhys decides to visit Spring Court alone",
+      "alternatives": [
+        "Bring others",
+        "Send someone else",
+        "Not visit at all"
+      ],
+      "divergence_potential": 7,
+      "alternate_timeline": "Different approach to assessing Tamlin's border enforcement"
+    },
+    {
+      "event_id": "t_58",
+      "event_description": "Feyre asks Nesta to attend Solstice celebration and offers to pay her rent as incentive",
+      "chapter": 13,
+      "is_critical": null,
+      "decision_made": "Feyre offers to pay Nesta's rent as incentive",
+      "alternatives": [
+        "Leave without offering money",
+        "Use different persuasion method"
+      ],
+      "divergence_potential": 7,
+      "alternate_timeline": "Different approach might have yielded different response from Nesta"
+    },
+    {
+      "event_id": "t_93",
+      "event_description": "Nesta leaves the celebration and walks out into the freezing darkness",
+      "chapter": 20,
+      "is_critical": true,
+      "decision_made": "Nesta chooses to leave the celebration",
+      "alternatives": [
+        "Nesta stays longer",
+        "Nesta stays for the night"
+      ],
+      "divergence_potential": 7,
+      "alternate_timeline": "No confrontation with Cassian, potential for reconciliation"
+    },
+    {
+      "event_id": "t_113",
+      "event_description": "Mor decides to avoid the mysterious watcher and returns home",
+      "chapter": 24,
+      "is_critical": null,
+      "decision_made": "Mor avoids the mysterious watcher",
+      "alternatives": [
+        "Confront the watcher",
+        "Investigate further"
+      ],
+      "divergence_potential": 7,
+      "alternate_timeline": "Earlier discovery of the watcher's identity and intentions"
+    },
+    {
+      "event_id": "t_126",
+      "event_description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+      "chapter": 28,
+      "is_critical": true,
+      "decision_made": "Cassian insists Nesta come to the meeting",
+      "alternatives": [
+        "Cassian could have left without her",
+        "Nesta could have refused more strongly"
+      ],
+      "divergence_potential": 7,
+      "alternate_timeline": "Nesta might have remained in her apartment, delaying the confrontation"
+    }
+  ],
+  "causal_chains": [
+    {
+      "chain_id": "chain_1",
+      "description": "Illyrian conflict and leadership struggles",
+      "chain_type": "LINEAR",
+      "story_function": "Establishes political tension and character development for Rhys and Cassian",
+      "events": [
+        {
+          "event_id": "t_5",
+          "description": "Rhys reports he's at Devlon's camp dealing with Cassian's argument",
+          "chapter": 1,
+          "time_index": 5
+        },
+        {
+          "event_id": "t_6",
+          "description": "Rhys and Cassian negotiate with Devlon about female warrior training schedule",
+          "chapter": 2,
+          "time_index": 6
+        },
+        {
+          "event_id": "t_7",
+          "description": "Rhys and Cassian move to their stone house to discuss privately",
+          "chapter": 2,
+          "time_index": 7
+        },
+        {
+          "event_id": "t_8",
+          "description": "Cassian reveals brewing Illyrian rebellion and dissension",
+          "chapter": 2,
+          "time_index": 8
+        },
+        {
+          "event_id": "t_9",
+          "description": "Rhys admits his fears about happiness and cosmic payment",
+          "chapter": 2,
+          "time_index": 9
+        },
+        {
+          "event_id": "t_10",
+          "description": "Cassian embraces Rhys and offers reassurance",
+          "chapter": 2,
+          "time_index": 10
+        },
+        {
+          "event_id": "t_20",
+          "description": "Rhys returns home exhausted from the Illyrian camp covered in snow",
+          "chapter": 5,
+          "time_index": 20
+        }
+      ]
+    },
+    {
+      "chain_id": "chain_2",
+      "description": "Cassian's personal journey and motivation",
+      "chain_type": "LINEAR",
+      "story_function": "Character backstory and motivation development for Cassian",
+      "events": [
+        {
+          "event_id": "t_11",
+          "description": "Cassian flies from Windhaven toward Ramiel mountain",
+          "chapter": 3,
+          "time_index": 11
+        },
+        {
+          "event_id": "t_12",
+          "description": "Cassian reflects on the Blood Rite and his past victory with Rhys and Azriel",
+          "chapter": 3,
+          "time_index": 12
+        },
+        {
+          "event_id": "t_13",
+          "description": "Cassian lands at his destroyed birthplace and remembers his mother's suffering",
+          "chapter": 3,
+          "time_index": 13
+        },
+        {
+          "event_id": "t_14",
+          "description": "Cassian reflects on his motivation for training Illyrian women",
+          "chapter": 3,
+          "time_index": 14
+        }
+      ]
+    },
+    {
+      "chain_id": "chain_3",
+      "description": "Feyre's Velaris activities and information gathering",
+      "chain_type": "BRANCHING",
+      "story_function": "World-building and setup for Hewn City visit plotline",
+      "events": [
+        {
+          "event_id": "t_15",
+          "description": "Feyre meets Ressina while examining ruined buildings in the Rainbow district",
+          "chapter": 4,
+          "time_index": 15
+        },
+        {
+          "event_id": "t_16",
+          "description": "Ressina invites Feyre to join her artist painting group",
+          "chapter": 4,
+          "time_index": 16
+        },
+        {
+          "event_id": "t_17",
+          "description": "Mor joins Feyre while shopping for jewelry",
+          "chapter": 4,
+          "time_index": 17
+        },
+        {
+          "event_id": "t_18",
+          "description": "Feyre purchases a jeweled piece for Amren's Solstice gift",
+          "chapter": 4,
+          "time_index": 18
+        },
+        {
+          "event_id": "t_19",
+          "description": "Mor informs Feyre they must visit the Hewn City tonight because Eris will be there",
+          "chapter": 4,
+          "time_index": 19
+        }
+      ]
+    }
+  ],
+  "flexible_events": [
+    {
+      "event_id": "t_4",
+      "description": "Feyre dresses and prepares for her day",
+      "chapter": 1,
+      "flexibility_score": 10,
+      "why_flexible": "Routine daily activity with no plot significance"
+    },
+    {
+      "event_id": "t_3",
+      "description": "Feyre interacts with Nuala in the kitchen about Solstice preparations",
+      "chapter": 1,
+      "flexibility_score": 9,
+      "why_flexible": "Minor interaction about Solstice preparations, easily replaceable"
+    },
+    {
+      "event_id": "t_18",
+      "description": "Feyre purchases a jeweled piece for Amren's Solstice gift",
+      "chapter": 4,
+      "flexibility_score": 9,
+      "why_flexible": "Gift purchase detail, not essential to main plot"
+    },
+    {
+      "event_id": "t_21",
+      "description": "Feyre insists on bringing Rhys food after learning he hasn't eaten properly",
+      "chapter": 5,
+      "flexibility_score": 9,
+      "why_flexible": "Feyre could have chosen not to bring food, no major plot impact"
+    },
+    {
+      "event_id": "t_22",
+      "description": "They discuss Feyre's Fae menstrual cycle and the extreme pain she experiences twice yearly",
+      "chapter": 5,
+      "flexibility_score": 9,
+      "why_flexible": "Personal conversation that could have occurred at different time"
+    },
+    {
+      "event_id": "t_23",
+      "description": "They discuss Elain and Lucien's strained relationship and Nesta's past behavior",
+      "chapter": 5,
+      "flexibility_score": 9,
+      "why_flexible": "Personal conversation that could have occurred at different time"
+    },
+    {
+      "event_id": "t_41",
+      "description": "Feyre winnows into an abandoned gallery down the street",
+      "chapter": 9,
+      "flexibility_score": 9,
+      "why_flexible": "Feyre could have chosen to join the painting group instead of going alone"
+    },
+    {
+      "event_id": "t_88",
+      "description": "Someone knocks at the front door during the gift exchange",
+      "chapter": 19,
+      "flexibility_score": 9,
+      "why_flexible": "The knock could have been anyone or anything else"
+    },
+    {
+      "event_id": "t_12",
+      "description": "Cassian reflects on the Blood Rite and his past victory with Rhys and Azriel",
+      "chapter": 3,
+      "flexibility_score": 8,
+      "why_flexible": "Internal reflection that could occur at different times"
+    },
+    {
+      "event_id": "t_34",
+      "description": "Azriel offers to hunt down Bryaxis but Rhys declines",
+      "chapter": 7,
+      "flexibility_score": 8,
+      "why_flexible": "Rhys could have accepted Azriel's offer with minimal plot impact"
+    },
+    {
+      "event_id": "t_39",
+      "description": "Feyre approaches Ressina's studio but hesitates to join the painting group",
+      "chapter": 9,
+      "flexibility_score": 8,
+      "why_flexible": "Feyre could have joined the painting group instead of hesitating"
+    },
+    {
+      "event_id": "t_49",
+      "description": "Rhys goes to Palace of Thread and Jewels to shop for Solstice gifts",
+      "chapter": 11,
+      "flexibility_score": 8,
+      "why_flexible": "Rhys's gift shopping is optional and could have been done differently"
+    },
+    {
+      "event_id": "t_50",
+      "description": "Cassian brings Solstice decorations and playfully confronts Feyre in the foyer",
+      "chapter": 12,
+      "flexibility_score": 8,
+      "why_flexible": "Decorating activities are social and could have been organized differently"
+    },
+    {
+      "event_id": "t_89",
+      "description": "Feyre opens the door to find Nesta standing outside",
+      "chapter": 19,
+      "flexibility_score": 8,
+      "why_flexible": "Nesta could have chosen not to come to the celebration"
+    },
+    {
+      "event_id": "t_106",
+      "description": "Rhys informs Tamlin that Summer Court soldiers will be sent to his border",
+      "chapter": 23,
+      "flexibility_score": 8,
+      "why_flexible": "Border security decision could have been made through other means or at different times"
+    },
+    {
+      "event_id": "t_122",
+      "description": "Feyre comforts Cassian about the small steps toward female empowerment in Illyria",
+      "chapter": 26,
+      "flexibility_score": 8,
+      "why_flexible": "Feyre's comforting response could have taken different forms or been omitted"
+    },
+    {
+      "event_id": "t_93",
+      "description": "Nesta leaves the celebration and walks out into the freezing darkness",
+      "chapter": 20,
+      "flexibility_score": 7,
+      "why_flexible": "Nesta could have chosen to stay longer at the celebration"
+    },
+    {
+      "event_id": "t_103",
+      "description": "Rhys gifts Feyre a ruined riverside estate to rebuild as their future home",
+      "chapter": 22,
+      "flexibility_score": 7,
+      "why_flexible": "The gift of the estate could have been given at any time, not specifically tied to the child discussion"
+    },
+    {
+      "event_id": "t_97",
+      "description": "Nesta rejects Cassian's attempts to connect with her",
+      "chapter": 21,
+      "flexibility_score": 6,
+      "why_flexible": "Nesta could have accepted Cassian's attempts to connect"
+    },
+    {
+      "event_id": "t_127",
+      "description": "Nesta bathes and prepares to leave her apartment",
+      "chapter": 28,
+      "flexibility_score": 6,
+      "why_flexible": "Nesta's preparation routine could have varied in timing or manner"
+    }
+  ],
+  "character_trajectories": [
+    {
+      "character": "Feyre",
+      "last_events": [
+        {
+          "event_id": "evt_2",
+          "description": "Nesta bathes and prepares to leave her apartment",
+          "chapter": null,
+          "time_index": 120
+        },
+        {
+          "event_id": "evt_1",
+          "description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "chapter": null,
+          "time_index": 123
+        },
+        {
+          "event_id": "evt_3",
+          "description": "Cassian and Nesta travel to the riverfront estate",
+          "chapter": null,
+          "time_index": 125
+        },
+        {
+          "event_id": "evt_4",
+          "description": "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "chapter": null,
+          "time_index": 129
+        },
+        {
+          "event_id": "evt_5",
+          "description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "chapter": null,
+          "time_index": 130
+        }
+      ]
+    },
+    {
+      "character": "Rhys",
+      "last_events": [
+        {
+          "event_id": "evt_1",
+          "description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "chapter": null,
+          "time_index": 105
+        },
+        {
+          "event_id": "evt_2",
+          "description": "Nesta bathes and prepares to leave her apartment",
+          "chapter": null,
+          "time_index": 106
+        },
+        {
+          "event_id": "evt_3",
+          "description": "Cassian and Nesta travel to the riverfront estate",
+          "chapter": null,
+          "time_index": 107
+        },
+        {
+          "event_id": "evt_5",
+          "description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "chapter": null,
+          "time_index": 109
+        },
+        {
+          "event_id": "evt_4",
+          "description": "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "chapter": null,
+          "time_index": 129
+        }
+      ]
+    },
+    {
+      "character": "Cassian",
+      "last_events": [
+        {
+          "event_id": "evt_2",
+          "description": "Nesta bathes and prepares to leave her apartment",
+          "chapter": null,
+          "time_index": 120
+        },
+        {
+          "event_id": "evt_4",
+          "description": "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "chapter": null,
+          "time_index": 122
+        },
+        {
+          "event_id": "evt_1",
+          "description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "chapter": null,
+          "time_index": 126
+        },
+        {
+          "event_id": "evt_3",
+          "description": "Cassian and Nesta travel to the riverfront estate",
+          "chapter": null,
+          "time_index": 128
+        },
+        {
+          "event_id": "evt_5",
+          "description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "chapter": null,
+          "time_index": 130
+        }
+      ]
+    },
+    {
+      "character": "Azriel",
+      "last_events": [
+        {
+          "event_id": "evt_1",
+          "description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "chapter": null,
+          "time_index": 70
+        },
+        {
+          "event_id": "evt_5",
+          "description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "chapter": null,
+          "time_index": 84
+        },
+        {
+          "event_id": "evt_3",
+          "description": "Cassian and Nesta travel to the riverfront estate",
+          "chapter": null,
+          "time_index": 87
+        },
+        {
+          "event_id": "evt_2",
+          "description": "Nesta bathes and prepares to leave her apartment",
+          "chapter": null,
+          "time_index": 120
+        }
+      ]
+    },
+    {
+      "character": "Elain",
+      "last_events": [
+        {
+          "event_id": "evt_3",
+          "description": "Cassian and Nesta travel to the riverfront estate",
+          "chapter": null,
+          "time_index": 72
+        },
+        {
+          "event_id": "evt_5",
+          "description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "chapter": null,
+          "time_index": 79
+        },
+        {
+          "event_id": "evt_4",
+          "description": "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "chapter": null,
+          "time_index": 83
+        },
+        {
+          "event_id": "evt_1",
+          "description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "chapter": null,
+          "time_index": 90
+        },
+        {
+          "event_id": "evt_2",
+          "description": "Nesta bathes and prepares to leave her apartment",
+          "chapter": null,
+          "time_index": 91
+        }
+      ]
+    },
+    {
+      "character": "Mor",
+      "last_events": [
+        {
+          "event_id": "evt_5",
+          "description": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "chapter": null,
+          "time_index": 84
+        },
+        {
+          "event_id": "evt_1",
+          "description": "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "chapter": null,
+          "time_index": 110
+        },
+        {
+          "event_id": "evt_2",
+          "description": "Nesta bathes and prepares to leave her apartment",
+          "chapter": null,
+          "time_index": 111
+        },
+        {
+          "event_id": "evt_3",
+          "description": "Cassian and Nesta travel to the riverfront estate",
+          "chapter": null,
+          "time_index": 112
+        },
+        {
+          "event_id": "evt_4",
+          "description": "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "chapter": null,
+          "time_index": 113
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "critical_ending_events": 10,
+    "characters_retrieved": 34,
+    "relationship_pairs": 9,
+    "unresolved_threads": 9,
+    "causal_chains": 3,
+    "flexible_events": 20
+  }
+}
